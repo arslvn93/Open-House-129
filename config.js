@@ -8,7 +8,7 @@ const config = {
   },
   "realtor": {
     "fullName": "Rick Roccasalva",
-    "title": "REALTOR®",
+    "title": "iStreet Realty Group",
     "phone": "416 616 9369",
     "email": "rick@istreetrealty.ca",
     "photoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761767184484-biorick.jpg",
