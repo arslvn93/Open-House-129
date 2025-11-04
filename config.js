@@ -21,7 +21,7 @@ const config = {
   },
   "brokerage": {
     "name": "HomeLife Partners",
-    "logoUrl": "https://www.homelifepartnersrealty.com/files/themeManager/74/theme18/HL_Luxury_BLK_BKRND.png",
+    "logoUrl": "https://i.ibb.co/S41JhjhM/qr-code-case-study-Rick-Roccasalva.png",
     "address": "3850 Steeles Avenue W. Unit 6, Woodbridge, Ontario"
   },
   "openHouse": {
