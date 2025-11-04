@@ -20,7 +20,7 @@ const config = {
     }
   },
   "brokerage": {
-    "name": "HomeLife Partners",
+    "name": "Homelife Partners Realty Corp",
     "logoUrl": "https://i.ibb.co/Kx7SprL0/Untitled-design-1.jpg",
     "address": "3850 Steeles Avenue W. Unit 6, Woodbridge, Ontario"
   },
