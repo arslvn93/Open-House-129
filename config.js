@@ -27,17 +27,15 @@ const config = {
   "openHouse": {
     "eventDate": "",
     "bundleItems": [
-            {
-                  "icon": "fas fa-home",
-                  "text": "Full Property Listing",
-                  "url": "https://www.realtor.ca/real-estate/29025287/10-culpepper-court-caledon-bolton-north-bolton-north"
-            },
-            {
-                  "icon": "fas fa-video",
-                  "text": "Video Tour",
-                  "url": "https://mediatours.ca/property/10-culpepper-court-bolton/"
-            }
-      ]
+      {
+        "icon": "fas fa-home",
+        "text": "Full Property Listing"
+      },
+      {
+        "icon": "fas fa-video",
+        "text": "Video Tour"
+      }
+    ]
   },
   "meta": {
     "pageTitlePrefix": "🏡 Rick Roccasalva Open House",
@@ -60,36 +58,72 @@ const config = {
       "id": "agent_status",
       "questionText": "Are you currently exploring homes with a real estate agent?",
       "options": [
-        { "value": "committed", "text": "Yes, I'm committed to an agent." },
-        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
-        { "value": "gathering_info", "text": "Just gathering information at this stage." }
+        {
+          "value": "committed",
+          "text": "Yes, I'm committed to an agent."
+        },
+        {
+          "value": "not_committed",
+          "text": "No, I'm not committed to an agent."
+        },
+        {
+          "value": "gathering_info",
+          "text": "Just gathering information at this stage."
+        }
       ]
     },
     {
       "id": "interest_level",
       "questionText": "How interested are you in this Detached?",
       "options": [
-        { "value": "very_interested", "text": "Very interested, actively looking." },
-        { "value": "somewhat_interested", "text": "Somewhat interested, keeping options open." },
-        { "value": "just_browsing", "text": "Just browsing for now." }
+        {
+          "value": "very_interested",
+          "text": "Very interested, actively looking."
+        },
+        {
+          "value": "somewhat_interested",
+          "text": "Somewhat interested, keeping options open."
+        },
+        {
+          "value": "just_browsing",
+          "text": "Just browsing for now."
+        }
       ]
     },
     {
       "id": "neighborhood_engagement",
       "questionText": "How do you usually enjoy the neighborhood?",
       "options": [
-        { "value": "resident_explorer", "text": "I live here and love exploring locally." },
-        { "value": "considering_move", "text": "I'm considering moving to this area." },
-        { "value": "just_visiting", "text": "Just visiting for the open house." }
+        {
+          "value": "resident_explorer",
+          "text": "I live here and love exploring locally."
+        },
+        {
+          "value": "considering_move",
+          "text": "I'm considering moving to this area."
+        },
+        {
+          "value": "just_visiting",
+          "text": "Just visiting for the open house."
+        }
       ]
     },
     {
       "id": "feature_attraction",
       "questionText": "What feature attracted you to this home?",
       "options": [
-        { "value": "design_layout", "text": "The design and layout." },
-        { "value": "location_neighborhood", "text": "The location and neighborhood." },
-        { "value": "home_price", "text": "The price of the home." }
+        {
+          "value": "design_layout",
+          "text": "The design and layout."
+        },
+        {
+          "value": "location_neighborhood",
+          "text": "The location and neighborhood."
+        },
+        {
+          "value": "home_price",
+          "text": "The price of the home."
+        }
       ]
     }
   ],
@@ -98,7 +132,7 @@ const config = {
     "repoName": "Open-House-129",
     "repoUrl": "https://github.com/arslvn93/Open-House-129",
     "tag": "Open House 10 Culpepper Crt",
-    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/723v7Nh8JC60wCn3aRmV",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KyeQTgnX03giMLGAsQCM/webhook-trigger/e68e05b8-4715-429e-8bda-a60fcd2ec132",
     "siteId": "0f018bc6-26fd-405f-afb1-67f9112a6062"
   }
 };
